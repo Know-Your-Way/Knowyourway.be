@@ -25,7 +25,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**
-- **Slack/Discord/Zoom/Google Meet**:  Zoom
+- **Slack/Discord/Zoom/Google Meet**: Zoom
 - **Video Calls**: Yes
 
 ---
@@ -34,10 +34,10 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Name/Day |  Monday   |  Tuesday   | Wednesday  |  Thursday  |  Friday   | Saturday  |
-| -------- | :-------: | :--------: | :--------: | :--------: | :-------: | :-------: |
-| Andrii   | | 9AM -10pm  | 9am - 2pm  | 9am -10pm  | available after 6pm| 9am - 4pm |9am - 4pm | 
-| Dnyandeo   | 10am - 4pm | 10am - 9pm | 10am - 9pm | 10am - 9pm  | 10am - 9pm | 10am  - 9pm |
-| Ricardo    | after 9pm | after 9pm| after 9pm  | after 9pm | after 9pm| after 9pm|
-| Haneefa  | --------- | ------ | --------- | ---------- | ---------| ----------- |
-| Elias    | not available | not available  | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm|
+| Name/Day |    Monday     |    Tuesday    |  Wednesday  |  Thursday   |       Friday        |  Saturday   |
+| -------- | :-----------: | :-----------: | :---------: | :---------: | :-----------------: | :---------: | --------- |
+| Andrii   |               |   9AM -10pm   |  9am - 2pm  |  9am -10pm  | available after 6pm |  9am - 4pm  | 9am - 4pm |
+| Dnyandeo |  10am - 4pm   |  10am - 9pm   | 10am - 9pm  | 10am - 9pm  |     10am - 9pm      | 10am - 9pm  |
+| Ricardo  |   after 9pm   |   after 9pm   |  after 9pm  |  after 9pm  |      after 9pm      |  after 9pm  |
+| Haneefa  |   ---------   |    ------     |  ---------  | ----------  |      ---------      | ----------- |
+| Elias    | not available | not available | 10am - 11pm | 10am - 11pm |     10am - 11pm     | 10am - 11pm |
