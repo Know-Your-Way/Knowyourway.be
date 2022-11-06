@@ -36,8 +36,8 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Name/Day |  Monday   |  Tuesday   | Wednesday  |  Thursday  |  Friday   | Saturday  |
 | -------- | :-------: | :--------: | :--------: | :--------: | :-------: | :-------: |
-| Andrii   | | 9AM -10pm  | 9am - 2pm  | 9am -10pm  | available after 6pm| 9am - 4pm |9am - 4pm | 
+| Andrii   | | 9AM -10pm  | 9am - 2pm  | 9am -10pm  | available after 6pm| 9am - 4pm |9am - 4pm |
 | Dnyandeo   | 10am - 4pm | 10am - 9pm | 10am - 9pm | 10am - 9pm  | 10am - 9pm | 10am  - 9pm |
 | Ricardo    | after 9pm | after 9pm| after 9pm  | after 9pm | after 9pm| after 9pm|
-| Haneefa  | --------- | ------ | --------- | ---------- | ---------| ----------- |
+| Haneefa  | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm  | after 9pm |
 | Elias    | not available | not available  | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm|
