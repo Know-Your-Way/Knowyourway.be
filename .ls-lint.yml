@@ -1,0 +1,6 @@
+ls:
+    .js: kebab-case
+    .jsx: PascalCase
+ignore: 
+    - .git
+    - node_modules
