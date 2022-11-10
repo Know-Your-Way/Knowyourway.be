@@ -34,6 +34,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
+<<<<<<< HEAD
 | Name/Day |    Monday     |    Tuesday    |  Wednesday  |  Thursday   |       Friday        |  Saturday   |
 | -------- | :-----------: | :-----------: | :---------: | :---------: | :-----------------: | :---------: | --------- |
 | Andrii   |               |   9AM -10pm   |  9am - 2pm  |  9am -10pm  | available after 6pm |  9am - 4pm  | 9am - 4pm |
@@ -41,3 +42,12 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Ricardo  |   after 9pm   |   after 9pm   |  after 9pm  |  after 9pm  |      after 9pm      |  after 9pm  |
 | Haneefa  |   ---------   |    ------     |  ---------  | ----------  |      ---------      | ----------- |
 | Elias    | not available | not available | 10am - 11pm | 10am - 11pm |     10am - 11pm     | 10am - 11pm |
+=======
+| Name/Day |  Monday   |  Tuesday   | Wednesday  |  Thursday  |  Friday   | Saturday  |
+| -------- | :-------: | :--------: | :--------: | :--------: | :-------: | :-------: |
+| Andrii   | | 9AM -10pm  | 9am - 2pm  | 9am -10pm  | available after 6pm| 9am - 4pm |9am - 4pm |
+| Dnyandeo   | 10am - 4pm | 10am - 9pm | 10am - 9pm | 10am - 9pm  | 10am - 9pm | 10am  - 9pm |
+| Ricardo    | after 9pm | after 9pm| after 9pm  | after 9pm | after 9pm| after 9pm|
+| Haneefa  | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm | 2pm - 10pm  | after 9pm |
+| Elias    | not available | not available  | 10am - 11pm | 10am - 11pm | 10am - 11pm | 10am - 11pm|
+>>>>>>> cb23afbcebc3850aac4ecfbc0ac68cacc6a36f19
