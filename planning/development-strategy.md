@@ -12,7 +12,7 @@
   - ul class: "header_list"
   - li about
   - li sign up/ log in
-  **CSS**
+    **CSS**
 - See Figma file
 
 ### Body
