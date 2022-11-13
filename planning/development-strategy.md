@@ -1,10 +1,8 @@
 # Development strategy
 
-# Development strategy
+## Header
 
-### Header
-
-**HTML**
+**_HTML_**
 
 - header: class = "header"
 - logo: class = "header\_\_logo" src, alt = "logo"
@@ -17,7 +15,7 @@
 
 ### Body
 
-**HTML**
+**_HTML_**
 
 - section: class = "about"
 - ul class: "body"
@@ -30,7 +28,7 @@
 
 ### footer
 
-**HTML**
+**_HTML_**
 
 - section: class = "footer"
 - div: class = "footer"
@@ -41,8 +39,8 @@
 - logo: class = "facebook"
 - img: class = "facebook_logo"
 
-**CSS**
+**_CSS_**
 
 - see figma file
 
-**Javascript**
+**_JavaScript_**
