@@ -10,23 +10,21 @@
 - logo: class = "header\_\_logo" src, alt = "logo"
 - nav-bar (nav): class "header_nav"
   - ul class: "header_list"
+  - li home
   - li about
-  - li sign up/ log in
+  - li contact
     **CSS**
 - See Figma file
 
 ### Body
 
 **HTML**
+- nav-bar (nav): = "filters"
+- ul class: "filters_list"
+- li where do you want to go?
+- li categories
+- li date
 
-- section: class = "about"
-- ul class: "body"
-- li "visiting"
-- li "period of time"
-- section: class = "weather"
-- section: class = "map"
-- section: class = "recommendation"
-- section: class = "landmarks"
 
 ### footer
 
