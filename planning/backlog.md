@@ -17,7 +17,7 @@
   - i am able to see my current location
   - i can search for specific things, one or several at the same time
 - As a user i can get information about the app by clicking in `about`
-- As a user i can get more information about the platform  by clicking `contact` and filling up the form
+- As a user i can get more information about the platform by clicking `contact` and filling up the form
 
 ## Footer
 
