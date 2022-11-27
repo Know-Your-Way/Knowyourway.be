@@ -20,7 +20,7 @@ Brussels, providing directions and information about the places that surrounds t
   - [API routes](#api-routes)
   - [App demo video](#app-demo-video)
   - [Inspiration](#inspiration)
-      - [Projects and websites](#projects-and-websites)
+      - [websites](#websites)
       - [Articles](#articles)
   - [Authors](#authors)
 
@@ -40,15 +40,20 @@ The platform will include a search bar that will help people filter the specific
 
 
 ## Tools and Technologies
+  
 
 ### UX/UI
 
 - Figma
 
 ### Frontend
-
+- React.js
+- Leaflet
+- Tailwind.css
+  
 
 ### Backend
+- Strapi
 
 
 ## API routes
@@ -58,11 +63,38 @@ The platform will include a search bar that will help people filter the specific
 
 ## Inspiration
 
-#### Projects and websites
-
+####  websites
+- https://www.roughguides.com/
 
 #### Articles
 
 
 
 ## Authors
+
+
+- [Elias](https://github.com/EliasMlopez99) // Project Manager
+  
+<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/EliasMlopez99.png?size=200">
+
+- [Dnyandeo](https://github.com/Dnyandeo33) // React Lead
+
+<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/Dnyandeo33.png?size=200">
+
+
+- [Ricardo](https://github.com/TheRick88) // UX/Ul Lead
+
+<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/TheRick88.png?size=200">
+
+
+
+
+
+- [Hannefa](https://github.com/Haneefa-Shaik) // Strapi Lead
+
+<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/Haneefa-Shaik.png?size=200">
+
+- [Andrii](https://github.com/andriivam) // Tech Lead
+
+<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/andriivam.png?size=200">
+
