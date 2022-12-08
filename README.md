@@ -77,18 +77,9 @@ The platform will include a search bar that will help people filter the specific
   
 <img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/EliasMlopez99.png?size=200">
 
-- [Dnyandeo](https://github.com/Dnyandeo33) // React Lead
+- [Dnyandeo](https://github.com/Dnyandeo33) // UX/Ul / React Lead
 
 <img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/Dnyandeo33.png?size=200">
-
-
-- [Ricardo](https://github.com/TheRick88) // UX/Ul Lead
-
-<img style="border-radius: 50%; width: 100px; margin-left: 2rem" src="https://github.com/TheRick88.png?size=200">
-
-
-
-
 
 - [Hannefa](https://github.com/Haneefa-Shaik) // Strapi Lead
 
